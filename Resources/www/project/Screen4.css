@@ -1,0 +1,102 @@
+
+/* Define default spinner */
+.ui-icon-loading {
+	background: url("files/resources/lib/jquerymobile/1.4.4/images/ajax-loader.gif") repeat scroll 0 0 / 46px 46px transparent!important;
+}
+/* mobilecontainer */
+.ui-content.Screen4_mobilecontainer {
+	padding: 15px 15px 15px 15px;
+}
+/* spacer_29 */
+.Screen4_spacer_29 {
+	width: 290px; height: 8px;
+	margin: 4px 0px 4px 0px;
+}
+/* mobilelist_22 */
+.ui-page .Screen4_mobilelist_22 {
+	margin: 4px 0px 0px 0px;
+}
+/* mobilelistitem_23 */
+.ui-mobile-viewport ul[data-role="listview"] li.Screen4_mobilelistitem_23 {
+	padding: 0;
+	margin: 0;
+}
+.ui-mobile-viewport ul[data-role="listview"] li.Screen4_mobilelistitem_23 .ui-li-static-container {
+	padding: 0px 0px 4px 0px;
+	padding-right: 41px;
+	padding-left: 0px;
+	min-height: 1em;
+	border-width:0;
+}
+.ui-mobile-viewport ul[data-role="listview"] li.Screen4_mobilelistitem_23.ui-icon-none .ui-li-static-container {
+	padding-right: 0px; /* consider nothing */
+}
+/* mobilelistitembutton_24 */
+.Screen4_mobilelistitembutton_24 {
+
+}
+/* mobileimage_31 */
+.Screen4_mobileimage_31 {
+	margin: 4px 0px 4px 0px;
+	width: 100px; height: 100px;
+	display: block;
+}
+/* mobilelistitem_25 */
+.ui-mobile-viewport ul[data-role="listview"] li.Screen4_mobilelistitem_25 {
+	padding: 0;
+	margin: 0;
+}
+.ui-mobile-viewport ul[data-role="listview"] li.Screen4_mobilelistitem_25 .ui-li-static-container {
+	padding: 0px 0px 4px 0px;
+	padding-right: 41px;
+	padding-left: 0px;
+	min-height: 1em;
+	border-width:0;
+}
+.ui-mobile-viewport ul[data-role="listview"] li.Screen4_mobilelistitem_25.ui-icon-none .ui-li-static-container {
+	padding-right: 0px; /* consider nothing */
+}
+/* mobilelistitembutton_26 */
+.Screen4_mobilelistitembutton_26 {
+
+}
+/* mobileimage_32 */
+.Screen4_mobileimage_32 {
+	margin: 4px 0px 4px 0px;
+	width: 100px; height: 100px;
+	display: block;
+}
+/* mobilelistitem_27 */
+.ui-mobile-viewport ul[data-role="listview"] li.Screen4_mobilelistitem_27 {
+	padding: 0;
+	margin: 0;
+}
+.ui-mobile-viewport ul[data-role="listview"] li.Screen4_mobilelistitem_27 .ui-li-static-container {
+	padding: 0px 0px 4px 0px;
+	padding-right: 41px;
+	padding-left: 0px;
+	min-height: 1em;
+	border-width:0;
+}
+.ui-mobile-viewport ul[data-role="listview"] li.Screen4_mobilelistitem_27.ui-icon-none .ui-li-static-container {
+	padding-right: 0px; /* consider nothing */
+}
+/* mobilelistitembutton_28 */
+.Screen4_mobilelistitembutton_28 {
+
+}
+/* mobileimage_33 */
+.Screen4_mobileimage_33 {
+	margin: 4px 0px 4px 0px;
+	width: 100px; height: 100px;
+	display: block;
+}
+/* spacer_30 */
+.Screen4_spacer_30 {
+	width: 271px; height: 8px;
+	margin: 4px 0px 4px 0px;
+}
+/* mobilefooter */
+.Screen4_mobilefooter {
+	min-height:38px;
+}
